@@ -1,2 +1,2 @@
-# csc343
+# a database course
 Introduction to database (sql)
